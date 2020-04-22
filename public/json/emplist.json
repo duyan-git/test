@@ -1,0 +1,21 @@
+[
+	{
+	  "name":"巡检总人数",
+      "num":60,
+	  "total":60,
+	  "percent":1,
+	  "type":"total"
+	 },
+	{"name":"今日出勤人数",
+	  "num":30,
+	  "total":60,
+	  "percent":0.5,
+	  "type":"onduty"
+	 },
+	{"name":"当前在线人数",
+	 "num":10,
+	 "total":60,
+	 "percent":0.17,
+	 "type":"online"
+	 }
+]
